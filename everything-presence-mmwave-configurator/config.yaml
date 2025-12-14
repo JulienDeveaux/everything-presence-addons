@@ -1,5 +1,5 @@
-name: "Everything Presence Zone Configurator"
-description: "Helps you to visually create zones for the Everything Presence Lite, a mmWave Presence Sensor for Home Assistant"
+name: "Everything Presence Zone Configurator (Legacy)"
+description: "Legacy version - Helps you to visually create zones for the Everything Presence Lite, a mmWave Presence Sensor for Home Assistant"
 version: "1.2.2"
 slug: "everything-presence-zone-configurator"
 init: false
